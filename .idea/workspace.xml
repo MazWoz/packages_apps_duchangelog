@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2914784-f448-4283-bbbb-e0ee0fd4563e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java" afterPath="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DirtyUnicornsChangelog.iws" />
@@ -102,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="5" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.47162426" vertical-offset="569" max-vertical-offset="1785">
+            <state line="54" column="5" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1286#2170#0" expanded="true" />
@@ -137,11 +138,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeList.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ChangeList.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="56" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <folding />
+            <state line="4" column="31" selection-start="155" selection-end="155" vertical-scroll-proportion="0.11741683" vertical-offset="0" max-vertical-offset="511">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -247,8 +250,8 @@
         <option value="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/res/layout/list_vers.xml" />
         <option value="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/res/layout/fragment_change_list.xml" />
         <option value="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/res/xml/du_changelog.xml" />
-        <option value="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java" />
         <option value="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/MainActivity.java" />
+        <option value="$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java" />
       </list>
     </option>
   </component>
@@ -750,7 +753,11 @@
       <created>1370727373772</created>
       <updated>1370727373772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Working version 1.0">
+      <created>1370727401900</created>
+      <updated>1370727401900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -778,14 +785,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="60" width="1855" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.6002265" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.4997233" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.6002265" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32927504" sideWeight="0.60201794" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39798206" sideWeight="0.4997233" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39798206" sideWeight="0.4997233" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39798206" sideWeight="0.5002767" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.28652322" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.28652322" order="2" side_tool="true" content_ui="tabs" />
@@ -973,13 +980,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="56" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/res/xml/du_changelog.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="55" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
@@ -994,12 +994,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="5" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.47162426" vertical-offset="569" max-vertical-offset="1785">
+        <state line="54" column="5" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1286#2170#0" expanded="true" />
             <element signature="e#2159#2160#0" expanded="true" />
             <element signature="e#2455#2463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DirtyUnicornsChangelog/src/main/java/us/zamzow/mazwoz/dirtyunicornschangelog/ChangeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="155" selection-end="155" vertical-scroll-proportion="0.11741683" vertical-offset="0" max-vertical-offset="511">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
