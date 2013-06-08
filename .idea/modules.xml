@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DirtyUnicornsChangelog/DirtyUnicornsChangelog.iml" filepath="$PROJECT_DIR$/DirtyUnicornsChangelog/DirtyUnicornsChangelog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DirtyUnicornsChangelogProject.iml" filepath="$PROJECT_DIR$/DirtyUnicornsChangelogProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duchangelog.iml" filepath="$PROJECT_DIR$/duchangelog.iml" />
     </modules>
   </component>
 </project>

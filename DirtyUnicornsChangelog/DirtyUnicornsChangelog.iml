@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+<module external.linked.project.path="$MODULE_DIR$/../build.gradle" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
-        <option name="SELECTED_BUILD_VARIANT" value="debug" />
-        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
@@ -14,7 +12,7 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":DirtyUnicornsChangelog" />
-        <option name="PROJECT_ABSOLUTE_PATH" value="d:\Users\bret\AndroidStudioProjects\DirtyUnicornsChangelogProject" />
+        <option name="PROJECT_ABSOLUTE_PATH" value="$MODULE_DIR$/.." />
         <option name="GRADLE_HOME_DIR_PATH" />
       </configuration>
     </facet>
